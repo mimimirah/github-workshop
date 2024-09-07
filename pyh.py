@@ -15,7 +15,7 @@ def calc():
          print(num1 / num2)
     else:  
          print('invalid input')
-    calc()
+calc()
 
 
 
